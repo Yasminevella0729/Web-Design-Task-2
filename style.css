@@ -1,0 +1,18 @@
+.image{
+    .image{
+        width: 1000px; 
+        height: 1000px;
+    }
+   h1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: xx-small;
+color: black;
+   }
+
+.HOME{
+    color: chocolate;
+    font-size: large;
+    align-items: flex-start;
+}
+
+website
